@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  TestApp
-//
-//  Created by Владимир Колодезников on 06.03.2020.
-//  Copyright © 2020 Владимир Колодезников. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
